@@ -1,5 +1,5 @@
 # Nazarii Vladyka
-=======
+-----------
 ### Contacts
 * **Discord**   [Nazarkocool (@vladyka-nazarii)](https://discordapp.com/users/Nazarkocool)
 * **Telegram**  [vladyka_nazarii](https://t.me/vladyka_nazarii)
