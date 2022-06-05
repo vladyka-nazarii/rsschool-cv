@@ -36,6 +36,6 @@ function multiply(a, b){
     MikroTik Certificates
 -----------
 ### Languages
-**English** B1 [EPAM English test](https://examinator.epam.com)
-**Ukrainian** Native
-**Russian** Fluent
+* **English** B1 [EPAM English test](https://examinator.epam.com)
+* **Ukrainian** Native
+* **Russian** Fluent
