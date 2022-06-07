@@ -32,8 +32,8 @@ I've always been interested in computers and how they work. Even when I was stud
 ### Code example
 
 ```js
-function multiply(a, b){
-  return a * b;
+#function multiply(a, b){
+#  return a * b;
 }
 ```
 
@@ -49,9 +49,9 @@ function multiply(a, b){
 ### Education
 
 * **Master, Taras Shevchenko National University of Kyiv**
-    International Bussiness, Translator (English)
+  * International Bussiness, Translator (English)
 * **MTCNA, MTCWE, MTCRE, MTCTCE**
-    MikroTik Certificates
+  * MikroTik Certificates
 
 -----------
 
