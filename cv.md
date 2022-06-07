@@ -19,13 +19,13 @@ I've always been interested in computers and how they work. Even when I was stud
 
 ## Skills
 
-    * JavaScript
-    * HTML
-    * CSS
-    * Git
-    * VSCode
-    * Photoshop
-    * Windows OS, Linux(Ubuntu), Android, Router OS
+* JavaScript
+* HTML
+* CSS
+* Git
+* VSCode
+* Photoshop
+* Windows OS, Linux(Ubuntu), Android, Router OS
 
 -----------
 
