@@ -4,10 +4,10 @@
 
 ### Contacts
 
-* **Discord**[Nazarkocool (@vladyka-nazarii)](https://discordapp.com/users/Nazarkocool)
-* **Telegram**[vladyka_nazarii](https://t.me/vladyka_nazarii)
-* **E-mail**[vladyka.nazarii@gmail.com](mailto:vladyka.nazarii@gmail.com)
-* **GitHub**[vladyka-nazarii](https://github.com/vladyka-nazarii/)
+* **Discord** [Nazarkocool (@vladyka-nazarii)](https://discordapp.com/users/Nazarkocool)
+* **Telegram** [vladyka_nazarii](https://t.me/vladyka_nazarii)
+* **E-mail** [vladyka.nazarii@gmail.com](mailto:vladyka.nazarii@gmail.com)
+* **GitHub** [vladyka-nazarii](https://github.com/vladyka-nazarii/)
 
 -----------
 
@@ -32,8 +32,8 @@ I've always been interested in computers and how they work. Even when I was stud
 ### Code example
 
 ```js
-#function multiply(a, b){
-#  return a * b;
+function multiply(a, b){
+  return a * b;
 }
 ```
 
