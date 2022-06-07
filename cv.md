@@ -36,8 +36,8 @@ function multiply(a, b){
 
 ## Education
 
-* **Master, Taras Shevchenko National University of Kyiv**
-  * International Bussiness, Translator (English)
+* **Master, International Bussiness, Translator (English)**
+  * Taras Shevchenko National University of Kyiv
 * **MTCNA, MTCWE, MTCRE, MTCTCE**
   * MikroTik Certificates
 
