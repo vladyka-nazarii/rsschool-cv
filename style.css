@@ -9,7 +9,6 @@ body {
   color: #033a39;
   margin: 0;
   flex-direction: column;
-  min-height: 100vh;
 }
 * {
   box-sizing: border-box;
@@ -18,7 +17,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: right;
-  min-height: 60px;
+  min-height: 50px;
+  height: 5vh;
   max-width: 1024px;
   background-color: #82d287;
   margin: 0px auto;
@@ -43,6 +43,7 @@ body {
   display: flex;
   background-color: azure;
   margin: 0px auto;
+  min-height: 90vh;
 }
 .left-main{
   padding: 20px;
@@ -103,7 +104,8 @@ body {
 .footer-container {
   max-width: 1024px;
   background-color: #82d287;
-  height: 80px;
+  height: 5vh;
+  min-height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -119,5 +121,5 @@ body {
   padding: 0;
 }
 .footer-logo {
-  height: 50px;
+  height: 40px;
 }
